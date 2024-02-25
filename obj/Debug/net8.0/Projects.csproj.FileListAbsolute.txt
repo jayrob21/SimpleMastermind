@@ -1,0 +1,14 @@
+/Users/justinroberts/Documents/Projects/console app/bin/Debug/net8.0/Projects
+/Users/justinroberts/Documents/Projects/console app/bin/Debug/net8.0/Projects.deps.json
+/Users/justinroberts/Documents/Projects/console app/bin/Debug/net8.0/Projects.runtimeconfig.json
+/Users/justinroberts/Documents/Projects/console app/bin/Debug/net8.0/Projects.dll
+/Users/justinroberts/Documents/Projects/console app/bin/Debug/net8.0/Projects.pdb
+/Users/justinroberts/Documents/Projects/console app/obj/Debug/net8.0/Projects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justinroberts/Documents/Projects/console app/obj/Debug/net8.0/Projects.AssemblyInfoInputs.cache
+/Users/justinroberts/Documents/Projects/console app/obj/Debug/net8.0/Projects.AssemblyInfo.cs
+/Users/justinroberts/Documents/Projects/console app/obj/Debug/net8.0/Projects.csproj.CoreCompileInputs.cache
+/Users/justinroberts/Documents/Projects/console app/obj/Debug/net8.0/Projects.dll
+/Users/justinroberts/Documents/Projects/console app/obj/Debug/net8.0/refint/Projects.dll
+/Users/justinroberts/Documents/Projects/console app/obj/Debug/net8.0/Projects.pdb
+/Users/justinroberts/Documents/Projects/console app/obj/Debug/net8.0/Projects.genruntimeconfig.cache
+/Users/justinroberts/Documents/Projects/console app/obj/Debug/net8.0/ref/Projects.dll
