@@ -8,24 +8,26 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/Users/justinroberts/.nuget/packages/": {}
+    "C:\\Users\\justi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/justinroberts/Documents/Projects/console app/Projects.csproj",
-      "projectName": "Projects",
-      "projectPath": "/Users/justinroberts/Documents/Projects/console app/Projects.csproj",
-      "packagesPath": "/Users/justinroberts/.nuget/packages/",
-      "outputPath": "/Users/justinroberts/Documents/Projects/console app/obj/",
+      "projectUniqueName": "C:\\Users\\justi\\Documents\\projects\\temp\\SimpleMastermind.csproj",
+      "projectName": "SimpleMastermind",
+      "projectPath": "C:\\Users\\justi\\Documents\\projects\\temp\\SimpleMastermind.csproj",
+      "packagesPath": "C:\\Users\\justi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\justi\\Documents\\projects\\temp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/justinroberts/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\justi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -64,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

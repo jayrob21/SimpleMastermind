@@ -12,3 +12,18 @@
 /Users/justinroberts/Documents/Projects/console app/obj/Debug/net8.0/Projects.pdb
 /Users/justinroberts/Documents/Projects/console app/obj/Debug/net8.0/Projects.genruntimeconfig.cache
 /Users/justinroberts/Documents/Projects/console app/obj/Debug/net8.0/ref/Projects.dll
+C:\Users\justi\Documents\projects\temp\bin\Debug\net8.0\Projects.exe
+C:\Users\justi\Documents\projects\temp\bin\Debug\net8.0\Projects.deps.json
+C:\Users\justi\Documents\projects\temp\bin\Debug\net8.0\Projects.runtimeconfig.json
+C:\Users\justi\Documents\projects\temp\bin\Debug\net8.0\Projects.dll
+C:\Users\justi\Documents\projects\temp\bin\Debug\net8.0\Projects.pdb
+C:\Users\justi\Documents\projects\temp\obj\Debug\net8.0\Projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justi\Documents\projects\temp\obj\Debug\net8.0\Projects.AssemblyInfoInputs.cache
+C:\Users\justi\Documents\projects\temp\obj\Debug\net8.0\Projects.AssemblyInfo.cs
+C:\Users\justi\Documents\projects\temp\obj\Debug\net8.0\Projects.csproj.CoreCompileInputs.cache
+C:\Users\justi\Documents\projects\temp\obj\Debug\net8.0\Projects.sourcelink.json
+C:\Users\justi\Documents\projects\temp\obj\Debug\net8.0\Projects.dll
+C:\Users\justi\Documents\projects\temp\obj\Debug\net8.0\refint\Projects.dll
+C:\Users\justi\Documents\projects\temp\obj\Debug\net8.0\Projects.pdb
+C:\Users\justi\Documents\projects\temp\obj\Debug\net8.0\Projects.genruntimeconfig.cache
+C:\Users\justi\Documents\projects\temp\obj\Debug\net8.0\ref\Projects.dll

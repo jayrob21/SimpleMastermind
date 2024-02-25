@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\justi\\Documents\\projects\\temp\\Projects.csproj": {}
+    "C:\\Users\\justi\\Documents\\projects\\temp\\SimpleMastermind.csproj": {}
   },
   "projects": {
-    "C:\\Users\\justi\\Documents\\projects\\temp\\Projects.csproj": {
+    "C:\\Users\\justi\\Documents\\projects\\temp\\SimpleMastermind.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\justi\\Documents\\projects\\temp\\Projects.csproj",
-        "projectName": "Projects",
-        "projectPath": "C:\\Users\\justi\\Documents\\projects\\temp\\Projects.csproj",
+        "projectUniqueName": "C:\\Users\\justi\\Documents\\projects\\temp\\SimpleMastermind.csproj",
+        "projectName": "SimpleMastermind",
+        "projectPath": "C:\\Users\\justi\\Documents\\projects\\temp\\SimpleMastermind.csproj",
         "packagesPath": "C:\\Users\\justi\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\justi\\Documents\\projects\\temp\\obj\\",
         "projectStyle": "PackageReference",
